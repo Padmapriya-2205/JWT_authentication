@@ -4,6 +4,7 @@ A small React + Vite frontend and NestJS + MongoDB API for practicing user
 registration, password verification, JWT access tokens, and rotating refresh
 tokens.
 
+JWT Authentication implemented from scratch to understand better
 ## Requirements
 
 - Node.js 20 or newer
